@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bigdiv{
+    background-color: aquamarine;
+    height: 50rem;
+}
+form{
+    margin-left: 30rem  ;
+    padding-top: 20rem;
+}

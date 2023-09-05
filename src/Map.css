@@ -1,0 +1,25 @@
+/* In your CSS file or style section */
+
+/* Center the map horizontally and vertically */
+.map-container {    
+    margin-left: 20rem;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    /* You can adjust the height as needed */
+}
+
+/* Style the button */
+#showLocationButton {
+    margin-top: 20px;
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+    /* Adjust the margin as needed */
+    
+}
+.main-div{
+    background-color: black;
+}
+
